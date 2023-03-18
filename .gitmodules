@@ -1,0 +1,3 @@
+[submodule "midi-csv"]
+	path = midi-csv
+	url = https://github.com/andrewchenk/midi-csv
